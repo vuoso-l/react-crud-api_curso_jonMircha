@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-api-basico_curso_jonMircha/static/css/main.739f58ab.css",
+    "main.js": "/react-api-basico_curso_jonMircha/static/js/main.46860983.js",
+    "static/js/787.bfc10ec6.chunk.js": "/react-api-basico_curso_jonMircha/static/js/787.bfc10ec6.chunk.js",
+    "index.html": "/react-api-basico_curso_jonMircha/index.html",
+    "main.739f58ab.css.map": "/react-api-basico_curso_jonMircha/static/css/main.739f58ab.css.map",
+    "main.46860983.js.map": "/react-api-basico_curso_jonMircha/static/js/main.46860983.js.map",
+    "787.bfc10ec6.chunk.js.map": "/react-api-basico_curso_jonMircha/static/js/787.bfc10ec6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.739f58ab.css",
+    "static/js/main.46860983.js"
+  ]
+}
